@@ -62,5 +62,4 @@ This project is deployed on Vercel.
 
 
 👩‍💻 Author
-
 Built by Isha as part of a UI Internship Take-Home Challenge.
