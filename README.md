@@ -58,7 +58,7 @@ npm start
 🌐 Deployment
 
 This project is deployed on Vercel.
-👉 Live Demo: [Add your deployed link here]
+👉 Live Demo: https://earthquake-visualizer-1nc5.vercel.app/
 
 
 👩‍💻 Author
